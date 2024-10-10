@@ -181,6 +181,8 @@ h1{
              background-color: white;
              font-size:20px;
              font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+             
+             padding-top:50px;
              display:flex;
              text-align:center;
              justify-content: center;            
