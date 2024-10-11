@@ -185,15 +185,11 @@ h1{
              padding-top:50px;
              display:flex;
              text-align:center;
-             justify-content: center;            
+             align-items: center;            
              
              gap:50%;
              
-         }
-         #project:hover{
-             color: rgb(49, 141, 121);
-         }
- 
+        
  
  .project-title{
      color:rgb(40, 141, 121);
