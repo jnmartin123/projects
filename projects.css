@@ -208,13 +208,15 @@ h1{
  .project-section{
    
      background-color: rgb(255, 255, 255);
-     display: flex;
+     display: flex
      flex-direction:row;
      justify-content:space-around;
      margin-bottom:100px;
+     margin: auto;
+
      padding-top:150px;
      padding-bottom: 200px;
- }
+     margin: auto; }
  
    
     
