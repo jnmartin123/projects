@@ -50,16 +50,13 @@ h1{
    
 }
 
-
-
-
-a[href="portfolio.html"]:hover{
+a[href="https://jnmartin123.github.io/home/portfolio.html"]:hover{
     color: rgb(85, 84, 84);
     }
-    a[href="portfolio.html"]:active{
+    a[href="https://jnmartin123.github.io/home/portfolio.html"]:active{
         color: rgb(195, 192, 192);
     }
-    a[href="portfolio.html"]{
+    a[href="https://jnmartin123.github.io/home/portfolio.html"]{
        display: inline-block;
        font-size:20px;
        font-family: Arial, Helvetica, sans-serif;
@@ -69,14 +66,14 @@ a[href="portfolio.html"]:hover{
     }
 
 
-    a[href="skills.html"]:hover{
+    a[href="https://jnmartin123.github.io/skills/skills.html"]:hover{
         color: rgb(85, 84, 84);
         }
         
-    a[href="#skills.html"]:active{
+    a[href="https://jnmartin123.github.io/skills/skills.html"]:active{
             color: rgb(195, 192, 192);
         }
-    a[href="skills.html"]{
+    a[href="https://jnmartin123.github.io/skills/skills.html"]{
         display: inline-block;
         font-size: 20px;
         font-family: Arial, Helvetica, sans-serif;
@@ -87,14 +84,14 @@ a[href="portfolio.html"]:hover{
 
 
 
-    a[href="aboutme.html"]:hover{
+    a[href="https://jnmartin123.github.io/aboutme/aboutme.html "]:hover{
         color: rgb(85, 84, 84);
         }
         
-    a[href="aboutme.html"]:active{
+    a[href=" https://jnmartin123.github.io/aboutme/aboutme.html"]:active{
             color: rgb(195, 192, 192);
         }
-    a[href="aboutme.html"]{
+    a[href="https://jnmartin123.github.io/aboutme/aboutme.html "]{
         display: inline-block;
         font-size: 20px;
         font-family: Arial, Helvetica, sans-serif;
@@ -106,14 +103,14 @@ a[href="portfolio.html"]:hover{
     
     
     
-    a[href="projects.html"]:hover{
+    a[href="https://jnmartin123.github.io/projects/projects.html "]:hover{
         color: rgb(85, 84, 84);
         }
         
-    a[href="projects.html"]:active{
+    a[href="https://jnmartin123.github.io/projects/projects.html "]:active{
             color: rgb(195, 192, 192);
         }
-    a[href="projects.html"]{
+    a[href=" https://jnmartin123.github.io/projects/projects.html"]{
         display: inline-block;
         font-size: 20px;
         font-family: Arial, Helvetica, sans-serif;
@@ -126,14 +123,14 @@ a[href="portfolio.html"]:hover{
     
     
     
-    a[href="contacts.html"]:hover{
+    a[href="https://jnmartin123.github.io/contacts/contacts.html"]:hover{
         color: rgb(85, 84, 84);
         }
         
-    a[href="contacts.html"]:active{
+    a[href="https://jnmartin123.github.io/contacts/contacts.html"]:active{
             color: rgb(195, 192, 192);
         }
-    a[href="contacts.html"]{
+    a[href="https://jnmartin123.github.io/contacts/contacts.html"]{
         display: inline-block;
         font-size: 20px;
         font-family: Arial, Helvetica, sans-serif;
@@ -141,6 +138,9 @@ a[href="portfolio.html"]:hover{
         margin-right: 20px;
         color: rgb(8, 8, 8);
     }
+
+
+
 
 
 
@@ -179,15 +179,16 @@ h1{
              background-color: white;
              font-size:20px;
              font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-             
-             padding-top:50px;
+            padding-top:50px;
              display:flex;
-             text-align:center;
-             align-items: center;            
-             
+             text-align: center;
+             align-items:center;
+            
              gap:50%;
-             
+            
+         }
         
+ 
  
  .project-title{
      color:rgb(40, 141, 121);
@@ -206,7 +207,7 @@ h1{
  .project-section{
    
      background-color: rgb(255, 255, 255);
-     display: flex
+     
      flex-direction:row;
      justify-content:space-around;
      margin-bottom:100px;
@@ -214,7 +215,8 @@ h1{
 
      padding-top:150px;
      padding-bottom: 200px;
-     margin: auto; }
+     margin: auto;
+ }
  
    
     
@@ -258,7 +260,7 @@ h1{
  
  .newsletter{
      padding-bottom:65px;
-     text-align: center;
+    text-align: center;
      border:none ;
      font-size: 20px;
      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
